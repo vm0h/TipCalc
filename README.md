@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the tips being calculated according to the percentages.
 
 <img src='http://g.recordit.co/bepdIxpwpr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge was learning how to get used to Xcode as includes many different options to choose from.
 
 ## License
 
